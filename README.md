@@ -1,4 +1,4 @@
-# Salut 👋, je suis Nelson Kokora
+# Je suis Nelson Kokora
 
 🎓 Étudiant en Master Data Science, passionné d'analyse statistique, Machine Learning et Data Visualisation.  
 🎯 Objectif : Trouver un Stage/Emploi pour mettre mes compétences en pratique et contribuer à des projets data réels.
