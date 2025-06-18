@@ -13,7 +13,7 @@
 ## 📂 Projets majeurs
 
 - **Scoring Crédit Immobilier** : Modèle de scoring à partir d'un dataset d'une compagnie immobilière accompagné d'une application streamlit 
-- **Clustering Clients** : Segmentation via K-Means et CAH
+- **Clustering Clients** : Segmentation via K-Means et CAH (https://github.com/NelsonKokora/Projet-Clustering)
 - **Analyse des écarts de performance entre départements**:Utilisation de la statistique inférentielle
 - **Développé un modèle de régression logistique pour prédire le défaut de paiement à partir dedonnées** 
 - **Tableau de bord RH**: Tableau de bord fait à partir de power-bi
