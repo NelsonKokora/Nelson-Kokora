@@ -15,7 +15,7 @@
 - **Scoring Crédit Immobilier** : Modèle de scoring à partir d'un dataset d'une compagnie immobilière accompagné d'une application streamlit 
 - **Clustering Clients** : Segmentation via K-Means et CAH (https://github.com/NelsonKokora/Projet-Clustering)
 - **Analyse des écarts de performance entre départements**:Utilisation de la statistique inférentielle
-- **Développé un modèle de régression logistique pour prédire le défaut de paiement à partir dedonnées** (https://github.com/NelsonKokora/Prediction-des-defauts-de-paiements/tree/main)
+- **Développé un modèle de régression logistique pour prédire le défaut de paiement** (https://github.com/NelsonKokora/Prediction-des-defauts-de-paiements/tree/main)
 - **Tableau de bord RH**: Tableau de bord fait à partir de power-bi
 - **Tableau de bord commercial**: Tableau de bord fait à partir de power-bi pour suivre les ventes
 ## 📫 Contact
