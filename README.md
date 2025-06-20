@@ -12,7 +12,7 @@
 
 ## 📂 Projets majeurs
 
-- **Scoring Crédit Immobilier** : Modèle de scoring à partir d'un dataset d'une compagnie immobilière accompagné d'une application streamlit 
+- **Scoring Crédit Immobilier** : Modèle de scoring à partir d'un dataset d'une compagnie immobilière accompagné d'une application streamlit (https://github.com/NelsonKokora/Prediction-des-defauts-de-paiements)
 - **Clustering Clients** : Segmentation via K-Means et CAH (https://github.com/NelsonKokora/Projet-Clustering)
 - **Analyse des écarts de performance entre départements**:Utilisation de la statistique inférentielle (https://github.com/NelsonKokora/Analyse-des-carts-de-Performance-entre-D-partements)
 - **Développé un modèle de régression logistique pour prédire le défaut de paiement** (https://github.com/NelsonKokora/Prediction-des-defauts-de-paiements/tree/main)
