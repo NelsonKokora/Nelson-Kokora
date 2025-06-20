@@ -4,7 +4,7 @@
 🎯 Objectif : Trouver un Stage/Emploi pour mettre mes compétences en pratique et contribuer à des projets data réels.
 
 ## 🛠️ Compétences
-- **Langages :** Python (Pandas, Scikit-learn, Streamlit), R, SQL
+- **Langages :** Python , R, SQL, Dax
 - **Data Viz :** Power BI, Matplotlib, Seaborn
 - **Econométrie**
 - **Machine Learning**
